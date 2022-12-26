@@ -1,0 +1,15 @@
+<resources>
+    <string name="action_logout">Çıkış Yap</string>
+    <string name="title_activity_login">Oturum aç</string>
+    <string name="title_activity_instagram_gallery">Instagram Fotoğraflar</string>
+    <string name="loading">Yükleniyor</string>
+
+    <string name="title_facebook_alert_dialog">Facebook Hata</string>
+    <string name="message_facebook_alert_dialog">Facebook fotoğraflarınızı yüklerken bir sorun oluştu:\n%1$s</string>
+    <string name="button_text_cancel">İptal etmek</string>
+
+    <string name="facebook_app_id">530253444006315</string>
+    <string name="fb_login_protocol_scheme">fb384530818675305</string>
+    <string name="please_connect_to_internet">Lütfen internete bağlanın</string>
+
+</resources>

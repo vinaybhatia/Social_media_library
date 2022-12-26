@@ -1,0 +1,14 @@
+<resources>
+    <string name="action_logout">로그 아웃</string>
+    <string name="title_activity_login">로그인</string>
+    <string name="loading">로드 중</string>
+
+    <string name="title_facebook_alert_dialog">Facebook 오류</string>
+    <string name="message_facebook_alert_dialog">Facebook 사진을로드하는 중에 문제가 발생했습니다.\n%1$s</string>
+    <string name="button_text_cancel">취소</string>
+
+    <string name="facebook_app_id">530253444006315</string>
+    <string name="fb_login_protocol_scheme">fb384530818675305</string>
+    <string name="please_connect_to_internet">인터넷에 연결하십시오.</string>
+
+</resources>

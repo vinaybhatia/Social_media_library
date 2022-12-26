@@ -1,0 +1,19 @@
+<resources>
+<string name="action_logout">Logout</string>
+<string name="title_activity_login">Login</string>
+<string name="title_activity_instagram_gallery">Instagram Photos</string>
+<string name="loading">Loading</string>
+
+<string name="title_facebook_alert_dialog">Facebook Error</string>
+<string name="message_facebook_alert_dialog">There was a problem loading your Facebook photos:\n%1$s</string>
+<string name="button_text_cancel">Cancel</string>
+    <string name="firmware_install_fail">There is problem while updating firmware please disconnect and try to update again.</string>
+
+<string name="facebook_app_id" translatable="false">530253444006315</string>
+    <string name="facebook_client_token" translatable="false">b06a6c1765035de5a9805b79ae42d7e9</string>
+    <string name="fb_login_protocol_scheme">fb230383781080312</string>
+<!--    <string name="facebook_app_id" translatable="false">214634436554202</string>-->
+<string name="please_connect_to_internet">Please connect to internet.</string>
+    <string name="web_client_id">129929426917-cene19qqtupova4579gi4tivaatjfgg0.apps.googleusercontent.com</string>
+
+</resources>

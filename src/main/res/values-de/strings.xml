@@ -1,0 +1,14 @@
+<resources>
+    <string name="action_logout">Ausloggen</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_instagram_gallery">Instagram Fotos</string>
+    <string name="loading">Laden</string>
+
+    <string name="title_facebook_alert_dialog">Facebook Error</string>
+    <string name="message_facebook_alert_dialog">Beim Laden deiner Facebook-Fotos ist ein Problem aufgetreten:\n%1$s</string>
+    <string name="button_text_cancel">Stornieren</string>
+
+    <string name="facebook_app_id">530253444006315</string>
+    <string name="fb_login_protocol_scheme">fb384530818675305</string>
+    <string name="please_connect_to_internet">Bitte verbinden Sie sich mit dem Internet.</string>
+</resources>

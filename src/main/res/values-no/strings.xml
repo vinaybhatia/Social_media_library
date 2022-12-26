@@ -1,0 +1,14 @@
+<resources>
+    <string name="action_logout">Logg ut</string>
+    <string name="title_activity_login">Logg Inn</string>
+    <string name="loading">Laster</string>
+
+    <string name="title_facebook_alert_dialog">Facebook Feil</string>
+    <string name="message_facebook_alert_dialog">Det oppsto et problem å laste inn dine Facebook-bilder:\n%1$s</string>
+    <string name="button_text_cancel">Avbryt</string>
+
+    <string name="facebook_app_id">530253444006315</string>
+    <string name="fb_login_protocol_scheme">fb384530818675305</string>
+    <string name="please_connect_to_internet">Vennligst koble til internett.</string>
+
+</resources>

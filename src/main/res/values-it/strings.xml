@@ -1,0 +1,14 @@
+<resources>
+    <string name="action_logout">Disconnettersi</string>
+    <string name="title_activity_login">Accesso</string>
+    <string name="loading">Caricamento in corso</string>
+
+    <string name="title_facebook_alert_dialog">Facebook Errore</string>
+    <string name="message_facebook_alert_dialog">Si è verificato un problema durante il caricamento delle foto di Facebook:\n%1$s</string>
+    <string name="button_text_cancel">Annulla</string>
+
+    <string name="facebook_app_id">530253444006315</string>
+    <string name="fb_login_protocol_scheme">fb384530818675305</string>
+    <string name="please_connect_to_internet">Si prega di connettersi ad internet.</string>
+
+</resources>

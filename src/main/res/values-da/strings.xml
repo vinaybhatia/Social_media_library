@@ -1,0 +1,14 @@
+<resources>
+    <string name="action_logout">Log ud</string>
+    <string name="title_activity_login">Log ind</string>
+    <string name="title_activity_instagram_gallery">Instagrambilleder</string>
+    <string name="loading">Uploader</string>
+
+    <string name="title_facebook_alert_dialog">Facebook Fejl</string>
+    <string name="message_facebook_alert_dialog">Der opstod et problem med at indlæse dine Facebook-fotos:\n%1$s</string>
+    <string name="button_text_cancel">Afbestille</string>
+
+    <string name="facebook_app_id">530253444006315</string>
+    <string name="fb_login_protocol_scheme">fb384530818675305</string>
+    <string name="please_connect_to_internet">Venligst opret forbindelse til internettet.</string>
+</resources>

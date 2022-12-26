@@ -1,0 +1,14 @@
+<resources>
+    <string name="action_logout">الخروج</string>
+    <string name="title_activity_login">تسجيل الدخول</string>
+    <string name="loading">جار التحميل</string>
+
+    <string name="title_facebook_alert_dialog">Facebook خطأ</string>
+    <string name="message_facebook_alert_dialog">حدثت مشكلة في تحميل صورك على Facebook:\n%1$s</string>
+    <string name="button_text_cancel">إلغاء</string>
+
+    <string name="facebook_app_id">530253444006315</string>
+    <string name="fb_login_protocol_scheme">fb384530818675305</string>
+    <string name="please_connect_to_internet">يرجى الاتصال بالإنترنت.</string>
+
+</resources>

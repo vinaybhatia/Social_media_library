@@ -1,0 +1,14 @@
+<resources>
+    <string name="action_logout">ログアウト</string>
+    <string name="title_activity_login">Login</string>
+    <string name="loading">読み込み中</string>
+
+    <string name="title_facebook_alert_dialog">Facebook エラー</string>
+    <string name="message_facebook_alert_dialog">Facebookの写真を読み込む際に問題が発生しました：\n%1$s</string>
+    <string name="button_text_cancel">Cancel</string>
+
+    <string name="facebook_app_id">530253444006315</string>
+    <string name="fb_login_protocol_scheme">fb384530818675305</string>
+    <string name="please_connect_to_internet">インターネットに接続してください</string>
+
+</resources>

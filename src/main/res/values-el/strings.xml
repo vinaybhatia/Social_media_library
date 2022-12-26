@@ -1,0 +1,14 @@
+<resources>
+    <string name="action_logout">Αποσυνδέση</string>
+    <string name="title_activity_login">Σύνδεση</string>
+    <string name="loading">Φόρτωση</string>
+
+    <string name="title_facebook_alert_dialog">Facebook Λάθος</string>
+    <string name="message_facebook_alert_dialog">Παρουσιάστηκε πρόβλημα κατά τη φόρτωση των φωτογραφιών σας στο Facebook:\n%1$s</string>
+    <string name="button_text_cancel">Ματαίωση</string>
+
+    <string name="facebook_app_id">530253444006315</string>
+    <string name="fb_login_protocol_scheme">fb384530818675305</string>
+    <string name="please_connect_to_internet">Συνδεθείτε στο διαδίκτυο.</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="action_logout">Đăng xuất</string>
+    <string name="title_activity_login">Đăng nhập</string>
+    <string name="title_activity_instagram_gallery">Instagram Hình ảnh</string>
+    <string name="loading">Tải</string>
+
+    <string name="title_facebook_alert_dialog">Facebook lỗi</string>
+    <string name="message_facebook_alert_dialog">Đã xảy ra sự cố khi tải ảnh trên Facebook của bạn:\n%1$s</string>
+    <string name="button_text_cancel">Hủy</string>
+
+    <string name="facebook_app_id">530253444006315</string>
+    <string name="fb_login_protocol_scheme">fb384530818675305</string>
+    <string name="please_connect_to_internet">Vui lòng kết nối internet.</string>
+
+</resources>
